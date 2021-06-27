@@ -1,6 +1,6 @@
 ## NLW Valoriza
 
-💻 ### O Projeto Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
+### 💻 O Projeto Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
 
 ## Regras
 
